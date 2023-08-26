@@ -102,7 +102,7 @@ module.exports = {
   authorization: {
     // To obtain your token, visit https://highrise.game/ and log in. Then, go to the settings and create a new bot. Accept the terms and generate a token.
     // To obtain your room ID, go to the game and navigate to the top right corner where the player list is displayed. Click on "Share this room" and copy the ID.
-    room: '64baaeb15339bf72a4ebd744',
+    room: '64e7a9f34c737525bca6f016',
     token: 'f15ba79a36416ef483456937aff618bac88531013748919b34e93549a9c419ab'
   }
 }
