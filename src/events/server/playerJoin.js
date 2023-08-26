@@ -9,6 +9,6 @@ module.exports = {
       logJoin(user);
       console.log(`Bienvenue à vous ${user.username}(${user.id} faites comme chez vous`);
     }
-    bot.message.send(`VIVE LES MOUSQUETAIRES !`)
+    bot.message.send(`Bienvenue à vous ici pour avoir des items gratuits !`)
   }
 };
